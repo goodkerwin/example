@@ -13,3 +13,9 @@ html{
 	height : 200px ;
 	background-color : black ;
 }
+.example{
+	border : 1px solid sliver ;
+	width : 80px ;
+	height : 30px ;
+	color : yellow ;
+}
