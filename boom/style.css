@@ -2,4 +2,9 @@ body{
 	width : 1000px ;
 	height : 1000px ;
 	background-color : red ;
- }
+}
+div{
+	width : 100px ;
+	height : 100px ;
+	background-color : blue ;
+}
